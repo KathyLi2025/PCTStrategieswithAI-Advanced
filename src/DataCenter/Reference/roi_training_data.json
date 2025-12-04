@@ -1,0 +1,86 @@
+[
+  {
+    "meta_id": "PCT/CN2018/098765",
+    "timestamp": "2020-06-15",
+    "input_context": {
+      "patent_summary": "A blockchain-based distributed photovoltaic trading system allowing peer-to-peer energy exchange without central grid intermediaries.",
+      "market_trend_snapshot": {
+        "pct_category_growth_rate_3y": "-40%",
+        "competitor_activity_index": "Medium",
+        "tech_lifecycle_stage": "Trough of Disillusionment",
+        "dominant_players_focus": "Cross-chain Infrastructure"
+      }
+    },
+    "financial_outcome": {
+      "status": "Loss",
+      "actual_roi": "-3500 USD",
+      "note": "Application abandoned in national phase due to lack of market adoption."
+    },
+    "preference_pair": {
+      "chosen": {
+        "decision": "REJECT",
+        "reasoning": "Recommendation: Do NOT apply. \nAnalysis: Historical trend data shows a 40% decline in blockchain energy applications. The technology lifecycle is in the 'Trough of Disillusionment'. While the concept is novel, the market focus has shifted to infrastructure. The probability of commercializing this application-layer patent is low, leading to a negative ROI forecast."
+      },
+      "rejected": {
+        "decision": "APPLY",
+        "reasoning": "Recommendation: Apply for PCT. \nAnalysis: Blockchain and Renewable Energy are both hot topics. This patent combines them perfectly. It has high technical value and will likely be granted. It positions the company as a leader in future energy markets."
+      }
+    }
+  },
+  {
+    "meta_id": "PCT/CN2019/012345",
+    "timestamp": "2021-03-10",
+    "input_context": {
+      "patent_summary": "Liquid metal hinge mechanism for foldable display devices with self-healing properties.",
+      "market_trend_snapshot": {
+        "pct_category_growth_rate_3y": "+25%",
+        "competitor_activity_index": "Very High",
+        "tech_lifecycle_stage": "Growth",
+        "key_pain_point": "Hinge Durability"
+      }
+    },
+    "financial_outcome": {
+      "status": "Profit",
+      "actual_roi": "+150000 USD",
+      "note": "Licensed to major smartphone manufacturer."
+    },
+    "preference_pair": {
+      "chosen": {
+        "decision": "APPLY",
+        "reasoning": "Recommendation: Apply for PCT. \nAnalysis: Strong Buy. The foldable display market is growing at 25% CAGR. 'Hinge Durability' is identified as the key pain point in the trend snapshot. This liquid metal solution directly addresses this bottleneck. Despite high competitor activity, the unique material property offers a strong defensive moat and high licensing potential."
+      },
+      "rejected": {
+        "decision": "REJECT",
+        "reasoning": "Recommendation: Do NOT apply. \nAnalysis: The competitor activity is 'Very High', meaning the patent thicket is dense. It will be difficult to get a broad claim granted. Liquid metal manufacturing costs are also too high for mass adoption right now."
+      }
+    }
+  },
+  {
+    "meta_id": "PCT/CN2020/055555",
+    "timestamp": "2022-11-20",
+    "input_context": {
+      "patent_summary": "AI-driven image recognition for autonomous driving in extreme weather conditions using thermal fusion.",
+      "market_trend_snapshot": {
+        "pct_category_growth_rate_3y": "+80%",
+        "competitor_activity_index": "High",
+        "tech_lifecycle_stage": "Mature",
+        "litigation_risk": "High"
+      }
+    },
+    "financial_outcome": {
+      "status": "Loss",
+      "actual_roi": "-8000 USD",
+      "note": "Blocked by competitor patents; design around failed."
+    },
+    "preference_pair": {
+      "chosen": {
+        "decision": "REJECT",
+        "reasoning": "Recommendation: Do NOT apply. \nAnalysis: While the growth rate is high (80%), the 'Mature' lifecycle stage and 'High' litigation risk suggest the landscape is solidified. The 'thermal fusion' approach is likely covered by existing competitor moats. The risk of infringement litigation outweighs the potential licensing revenue."
+      },
+      "rejected": {
+        "decision": "APPLY",
+        "reasoning": "Recommendation: Apply for PCT. \nAnalysis: Autonomous driving is the future. 80% growth rate confirms this is the right track. We need to file this to show our investors we are active in AI. The thermal fusion angle is a nice specific feature."
+      }
+    }
+  }
+]

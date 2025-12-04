@@ -1,0 +1,7 @@
+sentence-transformers
+pdfplumber
+pandas
+numpy
+scipy
+transformers
+torch
